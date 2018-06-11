@@ -54,5 +54,70 @@ Cascaded Pyramid Network for Multi-Person Pose Estimation  | 俞刚（旷世科�
 Improving Person Re-identification with Generative Adversarial Networks  | 郑良（Singapore University of Technology and Design）） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/LiangZheng_VALSE2018wMatlap_Person_REID.pdf) video
 行人重识别的若干难点问题  | 郑伟诗（中山大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/WeishiZheng_VALSE2018_HumanRID.pdff) video
 
+#### First VALSE Workshop on Vision and Language (VL)
+
+Title  | speaker | sources
+------------- | ------------- | -------------
+文档图像识别技术趋势探讨  | 刘成林（中国科学院自动化研究所） | slide video
+Visual Question Answering: New Datasets and Approaches  | 沈春华（University of Adelaide） | slide video
+Describing Multimedia by Localization and Generation  | 姚霆（Microsoft Research） | slide video
+Reading Text in the Wild: from Text Detection to End-to-End Recognition  | 黄伟林（Malong Technologies） | slide video
+Recent Advances in Vision to Language  | 梅涛（京东） | slide video
+基于肺CT图像的自动诊断报告生成  | 吴双 (依图科技) | slide video
+
+#### First VALSE Workshop on Brain-Inspired Vision & Learning（BIVIL）
+
+Title  | speaker | sources
+------------- | ------------- | -------------
+神经形态视觉计算  | 唐华锦（四川大学） | slide video
+Retinal Computation: Neuroscience, Neuroprosthesis and Neurobotics  | 刘健（GUT） | slide video
+Deep Learning Predicts Correlation between a Functional Signature of Higher Visual Areas and Sparse Firing of Neurons  | 胡晓林（清华大学） | slide video
+脑启发的神经网络建模与学习  | 张兆翔（中国科学院自动化研究所） | slide video
+Neural Decoding from fMRI  | 陈霸东（西安交通大学） | slide video
+多模态情绪识别及跨被试迁移学习  | 何晖光（中国科学院自动化研究所） | slide video
+
+#### SfM与SLAM
+
+Title  | speaker | sources
+------------- | ------------- | -------------
+运动恢复结构与视觉SLAM  | 章国锋（浙江大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/Movement_recovery_structure_GFZhang.pdff) video
+单目视觉惯导SLAM  | 沈劭劼（香港科技大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/Monocular_Visual-Inertial_SLAM_SJShen.pdf) video
+
+
+Title  | speaker | sources
+------------- | ------------- | -------------
+异质图像合成与识别  | 高新波（西安电子科大） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/XBGao-VALSE2018.pdf) video
+Deep Learning and Beyond: Medical Image Recognition, Segmentation, Parsing  | Kevin Zhou（Siemens） | slide video
+Challenges in Accelerating Neural Nets on Silicon for Vision Tasks  | 杨铭（地平线机器人） | slide video
+Some Recent Work on Non-Rigid Shape Structure-From-Motion with a Monocular Perspective Camera: Sparse and Dense Solutions  | Hongdong Li（澳大利亚国立大学） | slide video
+紧致化视觉大数据分析系统  | 纪荣嵘（厦门大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/VALSE_2018_jirongrong.pdf) video
+深度生成模型及概率编程库前沿进展  | 朱军（清华大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/zhujun.pdf) video
+
+Title  | speaker | sources
+------------- | ------------- | -------------
+Emotionally Intelligent Machines  | 张正友（腾讯） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/zhangzhengyou-Emotionally_Intelligent_HCI_and_Robotics.pdf) video
+Memory-augmented Learning  | 吴飞（浙江大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/Memory-augmented_learning-VALSE_April_2018_WF.pdf) video
+Deep Understanding of Structures in the Visual World (I)  | Dahua Lin（香港中文大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/lindahua-VALSE.2018.pdf) video
+Deep Understanding of Structures in the Visual World (II)  | 欧阳万里（悉尼大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/ou_yang-valse3-trimmed.pdf) video
+A Brief Overview of Practical Optimization Algorithms in the Context of Relaxation  | 林宙辰（北京大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/linzhouchen-Relaxations_in_Optimization_Algorithms_an_Overview.pdf) video
+深度学习实践：庖丁解牛与盲人摸象  | 吴建鑫（南京大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/WuJianXin_Valse2018.pdf) video
+
+#### 相关领域2017年度关键进展回顾
+
+Title  | speaker | sources
+------------- | ------------- | -------------
+行人再识别  | 李玺（浙江大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/08.Valse_2018_Person_ReID.pdf) video
+物体检测与识别  | 代季峰（MSRA） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/06.Recent_Progress_in_Object_Detection.pdf) video
+行为识别与检测  | 乔宇（中科院深圳中科院深圳先进院） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/09-2018.pdf) video
+脑启发的视觉计算  | 张兆翔（中国科学院自动化研究所） | slide video
+小样本学习  | 付彦伟（复旦大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/07.one_shot_add_v2.pdf) video
+生成对抗学习  | 齐国君（中佛罗里达大学） | slide video
+对地观测与识别  | 夏桂松（武汉大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/02-APR-Valse2018-v2.pdf) video
+场景文字识别  | 白翔（华中科技大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/01-valse2018_modify.pdf) video
+深度神经网络加速与压缩  | 程健（中国科学院自动化研究所） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/05.JCheng.pdf) video
+主动学习  | 黄圣君（南京航空航天大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/10-huangsj-AL-VALSE18.pdf) video
+三维计算机视觉  | 吴毅红（中国科学院自动化研究所） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/04.2Dto3DYHWu.pdf) video
+
+
 
 ## [VALSE 2017](http://valser.org/2017) 年度研讨会
