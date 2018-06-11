@@ -15,9 +15,44 @@ VALSE年度研讨会的主要目的是为计算机视觉、图像处理、模式
 
 ## [VALSE 2018](http://ice.dlut.edu.cn/valse2018/index.html) 年度研讨会
 
+#### First VALSE Workshop on Pixel Level Image Understanding（PLIU）
 Title  | speaker | sources
 ------------- | ------------- | -------------
 互联网图像中的像素级语义识别  | 程明明（南开大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/2018ValseMMCheng.pdf) video
 图像理解与编辑  | 刘偲（中科院信息研究工程所） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/2018VALSESiLiu.pdf) video
+Towards Weakly and Semi Supervised Object Localization and Semantic Segmentation  | 魏云超（伊利诺伊大学香槟分校） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/2018ValseYWei.pdf) video
+Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing  | 王兴刚（华中科技大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/2018ValseXGWangDsrg.pdf) video
+Reinforcement Learning based Image Restoration and Semantic Image Super-resolution  | 董超（商汤科技） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/2018ValseDChao.pdf) video
+
+#### First VALSE Workshop on Deep Learning Models: Modern Architecture, Compression and Acceleration
+
+Title  | speaker | sources
+------------- | ------------- | -------------
+From Optimization to Deep Architecture Design: Unrolling with Strict Convergence Guarantee  | 刘日升（大连理工大学） | slide video
+Advances in Differentiable Programming: Beyond Simple RNN and Optimization  | 彭玺（四川大学） | slide video
+Interleaved Structured Sparse Convolution for Efficient and Effective Deep Neural Networks  | 王井东（MSRA） | slide video
+Towards Practical Deep Learning Model Compression and Acceleration  | 王乃岩（图森未来） | slide video
+深度学习高效计算与处理器设计  | 程健（中国科学院自动化研究所） | slide video
+Image Distillation for Deep Neural Networks Acceleration  | 陈添水（中山大学） | slide video
+
+#### 生成对抗网络
+
+Title  | speaker | sources
+------------- | ------------- | -------------
+生成式对抗神经网络  | 冯佳时（新加坡国立大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/Generative_Adversarial_Nets_JSFeng.pdf) video
+GAN的应用与拓展  | 左旺孟（哈尔滨工业大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/Generative_Adversarial_Nets_Applications_and_Extensions_WMZuo.pdf) video
+
+#### First VALSE Workshop on Methods and Technologies for Looking At People (MATLAP)
+
+Title  | speaker | sources
+------------- | ------------- | -------------
+面孔识别的神经机制研究  | 常乐（中科院神经所） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/Le_Chang_VALSE_2018_faceRecognition.pdf) video
+真实世界人脸表情识别  | 邓伟洪（北京邮电大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/WeihongDeng_VALSE2018.pdf) video
+多模态人脸识别与属性学习  | 韩琥（中科院计算所） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/HuHan_VALSE2018wmatlap_Face.pdf) video
+Deeply Understanding Human Poses and Actions in the Wild  | 乔宇（中科院深圳先进院） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/YuQiao_valse_2018-pose_and_behavior.pdf) video
+Cascaded Pyramid Network for Multi-Person Pose Estimation  | 俞刚（旷世科技） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/GangYU_Valse-CPN.pdf) video
+Improving Person Re-identification with Generative Adversarial Networks  | 郑良（Singapore University of Technology and Design）） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/LiangZheng_VALSE2018wMatlap_Person_REID.pdf) video
+行人重识别的若干难点问题  | 郑伟诗（中山大学） | [slide](http://ice.dlut.edu.cn/valse2018/ppt/WeishiZheng_VALSE2018_HumanRID.pdff) video
+
 
 ## [VALSE 2017](http://valser.org/2017) 年度研讨会
