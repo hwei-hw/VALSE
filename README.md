@@ -7,6 +7,6 @@
 
 Title  | speaker | sources
 ------------- | ------------- | -------------
-测试  | 测试 | 测试
+测试  | 测试 | [VALSE](http://valser.org/)
 
 ## VALSE 2017 年度研讨会
